@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CredManager</string>
+    <string name="app_title">Cred Manager</string>
+    <string name="app_icon">App Icon</string>
+    <string name="access_request">Request Access</string>
+    <string name="save_creds">Save Credentials</string>
+    <string name="enter_url">Enter Website URL</string>
+    <string name="website_url">Website URL</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="username_blank_err">Username cannot be blank</string>
+    <string name="password_blank_err">Password cannot be blank</string>
+    <string name="sign_in">Sign In</string>
+</resources>
